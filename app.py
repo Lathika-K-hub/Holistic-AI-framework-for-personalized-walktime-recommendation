@@ -14,7 +14,7 @@ def get_db_connection():
     return mysql.connector.connect(
         host="localhost",
         user="root",
-        password="Lathi@29",  
+        password="your_password",  
         database="walktime_db"
     )
 
