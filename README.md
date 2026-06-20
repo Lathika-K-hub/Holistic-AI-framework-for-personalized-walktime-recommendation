@@ -51,6 +51,23 @@ This project presents a Holistic AI Framework designed to predict stress level a
 * Advanced health analytics dashboard
 * Mobile application development
 * Advanced AI based chatbot with NLP
+  
+## Screenshots
+
+### Landing Page
+![Landing Page](screenshots/Landing%20page.jpeg)
+
+### User Input
+![User Input](screenshots/User%20input.jpeg)
+
+### Heart Rate Detection
+![Heart Rate Detection](screenshots/Heart%20rate%20detection.jpeg)
+
+### Recommendation Screen
+![Recommendation Screen](screenshots/Recommendation%20screen.jpeg)
+
+### Recommendation Screen 2
+![Recommendation Screen 2](screenshots/Recommendation%20screen(1).jpeg)
 
 ## Author
 
